@@ -5,7 +5,7 @@ font-style: oblique;
 color: black;
 }
 body{
-    background-image: url(./Assets/background-textura.jpg);
+    background-image: url(./background-textura.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -63,4 +63,8 @@ button{
 
  a {
     text-decoration: none;
+ }
+
+ img {
+   width: 80%;
  }
